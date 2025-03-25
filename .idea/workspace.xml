@@ -5,72 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89ea3485-7a95-4e9f-9221-a5628a06a835" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_jungsuk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Ex2_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Ex3_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Ex4_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Ex5_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GIT_TEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,11 +217,22 @@
       <workItem from="1742191081903" duration="19717000" />
       <workItem from="1742823456407" duration="324000" />
       <workItem from="1742864342276" duration="18000" />
-      <workItem from="1742865086445" duration="1274000" />
+      <workItem from="1742865086445" duration="1742000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
